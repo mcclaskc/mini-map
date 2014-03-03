@@ -1,0 +1,15 @@
+{
+  "name": "mini-map",
+  "main": "./lib/mini-map",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A short description of your package",
+  "activationEvents": ["mini-map:toggle"],
+  "repository": "https://github.com/atom/mini-map",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
