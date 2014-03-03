@@ -1,3 +1,5 @@
 # mini-map package
 
-A short description of your package.
+Atom Package that adds a sublime-like scrolling buffer mini map
+
+![alt text](http://www.connectedoffice-forum.com/fr/const.jpg)
